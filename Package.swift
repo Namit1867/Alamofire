@@ -50,3 +50,4 @@ let package = Package(name: "Alamofire",
                                             exclude: ["Info.plist", "Test Plans"],
                                             resources: [.process("Resources")])],
                       swiftLanguageModes: [.v5])
+
